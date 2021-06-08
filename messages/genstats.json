@@ -1,0 +1,4 @@
+{
+  "commandDescription": "generate a stats file with usage and perf statistic from event monitoring",
+  "prevfileFlagDescription": "previous stat file name, updated statistics are writen to mametST.js"
+}

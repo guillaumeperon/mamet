@@ -1,0 +1,4 @@
+{
+  "commandDescription": "generate a file with metadata and dependencies",
+  "auradirFlagDescription": "directory where aura source code is found"
+}
